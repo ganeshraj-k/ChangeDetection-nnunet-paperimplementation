@@ -1,0 +1,6 @@
+A Deep Belief Network (DBN) is a type of generative model composed of multiple layers of stochastic, latent variables. It consists mainly of two types of layers: Restricted Boltzmann Machines (RBMs) and a final layer that can be used for classification or regression tasks. DBNs are trained in an unsupervised manner to learn hierarchical representations from the data but have limitations in capturing spatial hierarchies effectively, especially for image data.
+
+Siamese CNNs are a specialized architecture designed to compare two inputs by processing them through identical subnetworks that share weights. This allows the network to learn features that highlight similarities and differences between the inputs effectively. The output is often based on distance metrics like Euclidean distance between feature vectors derived from each input.
+
+Siamese CNNs tend to perform better than DBNs for change detection tasks because they focus specifically on learning discriminative features relevant for comparing pairs directly, which enhances their ability to identify subtle changes in images compared with the more general feature extraction capabilities offered by DBNs.
+

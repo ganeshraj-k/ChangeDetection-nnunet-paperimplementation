@@ -1,0 +1,9 @@
+some cool links:
+
+
+https://github.com/googleearthengine/satellite-image-deep-learning-1
+
+
+https://github.com/MinZHANG-WHU/Change-Detection-Review
+
+https://github.com/SpaceNetLab/satellite-image-deep-learning/
