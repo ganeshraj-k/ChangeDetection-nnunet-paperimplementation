@@ -9,6 +9,3 @@ https://github.com/MinZHANG-WHU/Change-Detection-Review
 https://github.com/SpaceNetLab/satellite-image-deep-learning/
 
 
-need to finish project by weekend.
-
-need to test again.
